@@ -1,2 +1,2 @@
-# github_demonstration
-This is my first github respository. I am creating it for a class
+# github_project_1
+This is my first github respository for a class project
